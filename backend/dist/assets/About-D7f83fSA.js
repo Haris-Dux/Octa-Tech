@@ -1,1 +1,0 @@
-import{j as e}from"./index-CJgZYPpo.js";const t=()=>e.jsx(e.Fragment,{children:e.jsx("section",{className:"min-h-screen flex justify-center items-center",children:e.jsx("div",{class:"bg-white py-20",children:"about us"})})});export{t as default};
